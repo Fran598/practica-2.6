@@ -1,0 +1,57 @@
+body {
+    background-color: #CFD9DE;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: rgb(46, 45, 45);
+    font-size: 200%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: grey;
+    color: red;
+    font-size: 150%;
+    text-transform: capitalize;
+    font-family: serif;
+}
+
+h3 {
+    background-color: rgb(160, 157, 157);
+    color: purple;
+    font-size: 130%;
+}
+
+p {
+    background-color: rgb(194, 191, 191);
+    font-size: 15px;
+    line-height: 165%;
+    
+}
+
+strong {
+    color: green;
+    font-style: normal;
+    font-weight: normal;
+}
+
+em {
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+address {
+    background-color: rgb(187, 187, 187);
+    font-style: normal;
+    font-weight: bold;
+    text-align: right;
+    font-size: 13px;
+    padding: 10px;
+
+}
